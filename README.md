@@ -21,7 +21,7 @@ Itamar GilboA, Food Chain Project
 http://itamargilboa.com/projects/projects/food-chain-project
 
 # Briefing und Aufgabe
-<a href="woche1/briefing.md">Briefing und Aufgabe</a>
+<a href="https://github.com/digitalideation/IDA_2022/blob/main/briefing.md">Briefing und Aufgabe</a>
 # Agenda 
 Live (Check for Updates)
 
