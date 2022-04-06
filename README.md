@@ -27,15 +27,16 @@ http://itamargilboa.com/projects/projects/food-chain-project
 <a href="https://docs.google.com/spreadsheets/d/1w5nLr8Dm0PPNobIF_FjWWpALHfDbJUTQDhdUSaxg1_Y/edit?usp=sharing">Live (Check for Updates)</a>
 
 # Illias
+https://tinyurl.com/2p99wmz4
 
 # Slack
+https://digitalideationstudis.slack.com/archives/C03780GBRGX
 
-# Notion
 
 # Deliverables Overview
 | link zur woche  | deliverables  | due date |
 |---|---|---|
-| wk 1 | Recherche Self Tracking, Quantified Self Projekte. Pro Person Dokumentation ein Projekt auf https://www.notion.so/, Blog Post schreiben. a) Zusammenfassung, b) Bedeutung des Projekts, c) Methoden, Tools. Erste Ideen zu eigenem Self Tracking, Gruppenbildung  |  28.4.2022  | 
+| wk 1 | 1. Recherche Self Tracking, Quantified Self Projekte. Pro Person Dokumentation eines Projekts in eigener HTML Seite. a) Zusammenfassung, Integration von Bildmaterial, b) Bedeutung des Projekts, c) Methoden, Tools (wie wurde gemessen, wie wurde dargestellt) 2. Erste Ideen, Brainstorming zu eigenem Self Tracking   |  28.4.2022  | 
 | wk 2 |  Daten Sammlungen anlegen, Dokumentieren, wie und was gemessen wird, Metriken entwerfen. Sammlung von Referenzen, Skizzen, Diagrammen, Fotos für die Visualisierungen. Nachdenken über Zweck der Sammlung, welche Interessen könnten damit bedient werden? Pro Gruppe eine Seite auf notion.|  5.5.2022  | 
 |  |  <i>Workshop Data Portrait</i>|  | 
 | wk 3 | Formalisierte Regeln für Visualisierungen des eigenen Datensatzes erstellen. Skizzen, Skizzen, Skizzen  |  10.5.2022  |   
@@ -43,7 +44,7 @@ http://itamargilboa.com/projects/projects/food-chain-project
 | wk 4 | Konzept finalisieren, Blick von aussen einnehmen, schärfen. Was sind die tieferen Motivationen und Prinzipien des Tracking Services?  |  13.5.2022  |   
 | wk 5 | Sprint 1 Umsetzung, App mit einer Self Tracking Funktion und einfache Ausgabe der Daten  |  20.5.2022  |   
 | wk 6 | Sprint 2 Umsetzung, App mit einer Self Tracking Funktion und erste Visualisierung  |  27.5.2022  |   
-| wk 7 |  Sprint 3 Iteration und Improvement eines selbstgewählten Aspekts |    |   
+| wk 7 |  Sprint 3 Iteration und Improvement eines selbstgewählten Aspekts, Integration von Interaktion, z.Bsp. Filter, Zoom |    |   
 | wk 8 |  Finalisierung und Schlusspräsentation |  8.6.2022  |   
 |  |  Dokumentation |  10.6.2022  | 
 
