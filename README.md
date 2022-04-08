@@ -36,16 +36,16 @@ https://digitalideationstudis.slack.com/archives/C03780GBRGX
 # Deliverables Overview
 | link zur woche  | deliverables  | due date |
 |---|---|---|
-| <a href="https://github.com/digitalideation/IDA_2022/blob/main/woche1/readme.md">wk 1 | 1. Recherche Self Tracking, Quantified Self Projekte. Pro Person Dokumentation eines Projekts in eigener HTML Seite. a) Zusammenfassung, Integration von Bildmaterial, b) Bedeutung des Projekts, c) Methoden, Tools (wie wurde gemessen, wie wurde dargestellt) 2. Erste Ideen, Brainstorming zu eigenem Self Tracking   |  28.4.2022  | 
-| wk 2 |  Daten Sammlungen anlegen, Dokumentieren, wie und was gemessen wird, Metriken entwerfen. Sammlung von Referenzen, Skizzen, Diagrammen, Fotos für die Visualisierungen. Nachdenken über Zweck der Sammlung, welche Interessen könnten damit bedient werden? Welche Haltung nehmt ihr ein? Präsentation am 5.5.|  5.5.2022  | 
+| <a href="https://github.com/digitalideation/IDA_2022/blob/main/woche1/readme.md">wk 1 </a>| 1. Recherche Self Tracking, Quantified Self Projekte. Pro Person Dokumentation eines Projekts in eigener HTML Seite. a) Zusammenfassung, Integration von Bildmaterial, b) Bedeutung des Projekts, c) Methoden, Tools (wie wurde gemessen, wie wurde dargestellt) 2. Erste Ideen, Brainstorming zu eigenem Self Tracking   |  28.4.2022  | 
+| <a href="https://github.com/digitalideation/IDA_2022/blob/main/woche2/readme.md">wk 2 </a>| Gruppenbildung. Daten Sammlungen anlegen, Dokumentieren, wie und was gemessen wird, Metriken entwerfen. Sammlung von Referenzen, Skizzen, Diagrammen, Fotos für die Visualisierungen. Nachdenken über Zweck der Sammlung, welche Interessen könnten damit bedient werden? Welche Haltung nehmt ihr ein? Präsentation am 5.5.|  5.5.2022  | 
 |  |  <i>Workshop Data Portrait</i>|  | 
-| wk 3 | Formalisierte Regeln für Visualisierungen des eigenen Datensatzes erstellen. Skizzen, Skizzen, Skizzen. Anwenden auf Datensatz der Partnerin/des Partners, Skizzen, Skizzen.  |  10.5.2022  |   
+| <a href="https://github.com/digitalideation/IDA_2022/blob/main/woche3/readme.md">wk 3 </a> | Formalisierte Regeln für Visualisierungen des eigenen Datensatzes erstellen. Skizzen, Skizzen, Skizzen. Anwenden auf Datensatz der Partnerin/des Partners, Skizzen, Skizzen.  |  10.5.2022  |   
 |  |  <i>Workshop Data Portrait</i>|  | 
-| wk 4 | Konzept finalisieren, Blick von aussen einnehmen, schärfen. Was sind die tieferen Motivationen und Haltungen? Was wird erzählt? Midterm Präsentation vorbereiten.  |  13.5.2022  |   
-| wk 5 | Sprint 1 Umsetzung, App mit einer Self Tracking Funktion und einfache Ausgabe der Daten  |  20.5.2022  |   
-| wk 6 | Sprint 2 Umsetzung, App mit einer Self Tracking Funktion und Visualisierung(-en) |  27.5.2022  |   
-| wk 7 |  Sprint 3 Iteration und Improvement eines selbstgewählten Aspekts, z.Bsp. Integration von Interaktion,  (Filter, Zoom), Erzählung der Geschichte, ...|    |   
-| wk 8 |  Finalisierung und Schlusspräsentation |  8.6.2022  |   
+| <a href="https://github.com/digitalideation/IDA_2022/blob/main/woche4/readme.md">wk 4 </a>| Konzept finalisieren, Blick von aussen einnehmen, schärfen. Was sind die tieferen Motivationen und Haltungen? Was wird erzählt? Midterm Präsentation vorbereiten.  |  13.5.2022  |   
+| <a href="https://github.com/digitalideation/IDA_2022/blob/main/woche5/readme.md">wk 5 </a>| Sprint 1 Umsetzung, App mit einer Self Tracking Funktion und einfache Ausgabe der Daten  |  20.5.2022  |   
+| <a href="https://github.com/digitalideation/IDA_2022/blob/main/woche6/readme.md">wk 6 </a>| Sprint 2 Umsetzung, App mit einer Self Tracking Funktion und Visualisierung(-en) |  27.5.2022  |   
+| <a href="https://github.com/digitalideation/IDA_2022/blob/main/woche7/readme.md">wk 7 </a>|  Sprint 3 Iteration und Improvement eines selbstgewählten Aspekts, z.Bsp. Integration von Interaktion,  (Filter, Zoom), Erzählung der Geschichte, ...|    |   
+| <a href="https://github.com/digitalideation/IDA_2022/blob/main/woche8/readme.md">wk 8 </a>|  Finalisierung und Schlusspräsentation |  8.6.2022  |   
 |  |  Dokumentation |  10.6.2022  | 
 
 # Students Repo 2022
