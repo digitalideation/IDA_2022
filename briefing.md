@@ -18,17 +18,25 @@ Heutzutage gibt es eine Vielzahl von Anwendungen, um die eigenen Gewohnheiten od
 <i>Data Self Portrait – The Quantified Self</i>
 ### Idee
 <b>Data Self Portrait</b>: ihr erabeitet zu zweit eine gemeinsame Thematik, die Aspekte eures Lebens betrifft. 
-Mit dem Self Portrait erzählt ihr etwas über euch. Die Thematik kann mit irgendwelchen Fragen zusammenhängen, mit Gesundheit und Körperfunktionen oder mit Humor, Freund*innen, Arbeit, Wörtern, Farben, Räumen, Tools. Wichtig ist, dass euch das Thema interessiert. Je spezifischer der Gegenstand, desto interessanter wird die Arbeit sein! <b>The Quantified Self</b>: Welche Metriken benötigt ihr, um die Thematik zu fassen? Werdet euch klar darüber, was ihr herausfinden möchtet oder was eure Visualisierung leisten soll. Jedes Messsystem, jedes Verfahren zur Messung quantifizierbarer Einheiten trägt eine Haltung in sich. Mit welcher arbeitet ihr? Interesse, Wissenschaft, Humor, Ironie, Kritik, Verweigerung, Hacking? Auch eine 'Störung/Verzerrung/Missbrauch' von bestehenden Tracking Systemen ist möglich. 
+Mit dem Self Portrait erzählt ihr etwas über euch. Die Thematik kann mit irgendwelchen Fragen zusammenhängen, mit Gesundheit und Körperfunktionen oder mit Humor, Freund*innen, Arbeit, Wörtern, Farben, Räumen, Tools. Wichtig ist, dass euch das Thema interessiert. Je spezifischer der Gegenstand, desto interessanter wird die Arbeit sein! 
+
+<b>The Quantified Self</b>: Welche Metriken benötigt ihr, um die Thematik zu fassen? Werdet euch klar darüber, was ihr herausfinden möchtet oder was eure Visualisierung leisten soll. Jedes Messsystem, jedes Verfahren zur Messung quantifizierbarer Einheiten trägt eine Haltung in sich. Mit welcher arbeitet ihr? Interesse, Wissenschaft, Humor, Ironie, Kritik, Verweigerung, Hacking? Auch eine 'Störung/Verzerrung/Missbrauch' von bestehenden Tracking Systemen ist möglich. 
+Mögliche Haltungen:<br/>
+* Verbesserung (improvement)
+* Vorhersage/Analyse (prediction/analysis)
+* Messung und Messsysteme (measuring and measuring systems)
+* Verzerrung (distortion)
+
 ### Daten aufzeichnen
 Erarbeitet ein System, um die Daten eures Lebens aufzuzeichnen. 
 Ihr könnt Tools oder Apps zu Aufzeichnung benutzen oder eine eigene Tracking Applikation entwickeln. Sammelt beide euren Datensatz. 
 ### Darstellen
-Entwerft Arten der Visualisierung, vergleicht und entwerft schlussendlich eine interaktive, webbasierte Darstellung, die in Echtzeit auf die Datensätze zugreift und sie darstellt.
+Entwerft je unterschiedliche Arten der Visualisierung, vergleicht und entwerft schlussendlich eine interaktive, webbasierte Darstellung, die in Echtzeit auf die Datensätze zugreift und sie darstellt.
 
 
 ## Lernziele 
+* Mit Daten ein Selbstporträt entwerfen und eine persönliche Geschichte erzählen 
 * HTML5 Webtechnologien kennenlernen und einsetzen
 * Datenschnittstellen benutzen und Daten speichern: Zugriff auf APIs, JSON 
-* Mit Webtechnologien den Datenvisualisierungsprozess durchlaufen (Daten sammeln, Aussage klären, Visualisieren)
 * Wissen über und kritische Reflexion von Messen, Quantifizieren, Tracking, Tracing, Auswertung persönlicher Daten
 
