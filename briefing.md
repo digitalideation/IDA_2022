@@ -21,7 +21,10 @@ Heutzutage gibt es eine Vielzahl von Anwendungen, um die eigenen Gewohnheiten od
 Mit dem Self Portrait erzählt ihr etwas über euch. Die Thematik kann mit irgendwelchen Fragen zusammenhängen, mit Gesundheit und Körperfunktionen oder mit Humor, Freund*innen, Arbeit, Wörtern, Farben, Räumen, Tools. Wichtig ist, dass euch das Thema interessiert. Je spezifischer der Gegenstand, desto interessanter wird die Arbeit sein! 
 
 <b>The Quantified Self</b>: Welche Metriken benötigt ihr, um die Thematik zu fassen? Werdet euch klar darüber, was ihr herausfinden möchtet oder was eure Visualisierung leisten soll. Jedes Messsystem, jedes Verfahren zur Messung quantifizierbarer Einheiten trägt eine Haltung in sich. Mit welcher arbeitet ihr? Interesse, Wissenschaft, Humor, Ironie, Kritik, Verweigerung, Hacking? Auch eine 'Störung/Verzerrung/Missbrauch' von bestehenden Tracking Systemen ist möglich. 
-Mögliche Haltungen:<br/>
+Mögliche Motivationen und Verfahren:<br/>
+* daily me, Variation in der Wiederholung erkennen
+* Kommunikation (Botschaft senden)
+* Zusammenhänge verstehen
 * Verbesserung (improvement)
 * Vorhersage/Analyse (prediction/analysis)
 * Messung und Messsysteme (measuring and measuring systems)
