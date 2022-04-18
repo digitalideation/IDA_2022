@@ -1,0 +1,15 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    font-size: 4em;
+}
+
+div {
+    font-family: "Montserrat", sans-serif;
+    /* todo: weise dem div eine font-size zu
+    definiere die size einmal mit em und einmal mit rem
+    was ist der unterschied?
+
+    definiere sie in vw (viewport width) 
+    verändere die Fenstergroesse, was passiert?
+    */
+}

@@ -36,7 +36,7 @@ https://digitalideationstudis.slack.com/archives/C03780GBRGX
 # Deliverables Overview
 | link zur woche  | deliverables  | due date |
 |---|---|---|
-| <a href="https://github.com/digitalideation/IDA_2022/blob/main/woche1/readme.md">wk 1 </a>| 1. Recherche Self Tracking, Quantified Self Projekte. Pro Person Dokumentation eines Projekts in eigener HTML Seite. a) Zusammenfassung, Integration von Bildmaterial, b) Bedeutung des Projekts, c) Methoden, Tools (wie wurde gemessen, wie wurde dargestellt) 2. Erste Ideen, Brainstorming zu eigenem Self Tracking   |  28.4.2022  | 
+| <a href="https://github.com/digitalideation/IDA_2022/blob/main/woche1/readme.md">wk 1 </a>| Erste Ideen, Brainstorming zu eigenem Self Tracking, Austausch, Gruppenbildung   |  28.4.2022  | 
 | <a href="https://github.com/digitalideation/IDA_2022/blob/main/woche2/readme.md">wk 2 </a>| Gruppenbildung. Daten Sammlungen anlegen, Dokumentieren, wie und was gemessen wird, Metriken entwerfen. Sammlung von Referenzen, Skizzen, Diagrammen, Fotos für die Visualisierungen. Nachdenken über Zweck der Sammlung, welche Interessen könnten damit bedient werden? Welche Haltung nehmt ihr ein? Präsentation am 5.5.|  5.5.2022  | 
 |  |  <i>Workshop Data Portrait</i>|  | 
 | <a href="https://github.com/digitalideation/IDA_2022/blob/main/woche3/readme.md">wk 3 </a> | Formalisierte Regeln für Visualisierungen des eigenen Datensatzes erstellen. Skizzen, Skizzen, Skizzen. Anwenden auf Datensatz der Partnerin/des Partners, Skizzen, Skizzen.  |  10.5.2022  |   
