@@ -252,3 +252,13 @@ a {
   </body>
 </html>
 ```
+
+#### Exercise #3
+
+> make the links into a menu using the `position: fixed` css method. Then style the divs so that they do not overlap with the menu. In this case take advantage of the `margin` or the `padding` method. For the skilled coders try to make an horizontal scroll instead of vertical one. for the coders who don't care about scroll direction try to take advatage of both scrolling directions
+
+#### Exercise #4
+
+> Populate the divs with data about your week. If you don't want it to be about yourself then invent it. If you don't want it to be about the week than choose another topic. The only rule is to have consistent data linked to each other.
+
+## From 14:30 we will do a short show and tell
