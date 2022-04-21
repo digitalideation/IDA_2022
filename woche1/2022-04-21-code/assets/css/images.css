@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Museo";
+    src: url("fonts/MuseoSans-500.otf");
+}
+
+body {
+    font-family: "Museo";
+    font-size: 4vw;
+}
+
+.container {
+    background-image: url(../images/IMG_6954-water.jpg), linear-gradient(180deg, rgb(81, 0, 255), rgb(234, 255, 0));
+    background-size: 10vw;
+    min-height: 100vh;
+    background-color: cornflowerblue;
+    background-blend-mode: multiply;
+}
+
+img.water {
+    width: 20vw;
+}
