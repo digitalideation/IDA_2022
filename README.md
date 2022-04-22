@@ -58,6 +58,9 @@ https://github.com/rrmbo/GridModules.git<br>
 https://uneventfulodyssey.netlify.app/<br>
 
 Buchfink Niklas<br>
+https://ida-digital-design.netlify.app/<br>
+https://github.com/NiklasBuchfink/ida-digital-design<br>
+
 
 Gujer Mia Kicki<br>
 
@@ -75,8 +78,11 @@ https://svenjakolly.netlify.app<br>
 Münger Lea<br>
 
 Ramseier Sonja<br>
+https://ida-sr.netlify.app<br>
+https://github.com/sonjaramseier/Github_IDA_repos.git
 
 Santer Noël<br>
+https://rethinktheweb.netlify.app/<br>
 https://github.com/noelsanter/IDA-Aufgaben<br>
 
 Schlegel Balz<br>
@@ -86,12 +92,15 @@ https://ida-22-celine-schmid.netlify.app/<br>
 https://github.com/celine-schmid/Tag-1.git<br>
 
 Werner Max<br>
+https://ida-mw.netlify.app/<br>
+https://github.com/Maxframe/ida-repo<br>
 
 Widmer Timothy Leopold<br>
 https://baustelle.netlify.app<br>
 https://github.com/timothyschool/GridModules<br>
 
 Zaugg Tim<br>
+https://rethink-the-web.netlify.app<br>
 https://github.com/ZauggT/IDA2022-Exercise<br>
 
 
