@@ -77,6 +77,8 @@ Kolly Svenja<br>
 https://svenjakolly.netlify.app<br>
 
 Münger Lea<br>
+https://ida2022.netlify.app<br>
+https://github.com/leamuenger/IDA2022<br>
 
 Ramseier Sonja<br>
 https://ida-sr.netlify.app<br>
