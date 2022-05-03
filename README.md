@@ -85,7 +85,7 @@ https://ida-sr.netlify.app<br>
 https://github.com/sonjaramseier/Github_IDA_repos.git
 
 Santer Noël<br>
-https://rethinktheweb.netlify.app/<br>
+https://ida-noel.netlify.app/<br>
 https://github.com/noelsanter/IDA-Aufgaben<br>
 
 Schlegel Balz<br>
