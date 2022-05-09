@@ -6,7 +6,10 @@ let textString;
 function setup() {
     createCanvas(800, 600);
     let url = "chrome_history.json";
-    loadJSON(url, showHistory);
+    let history = loadJSON(url);
+    //Zugriff auf 
+    //console.log(history)
+    console.log(history[0]);
 }
 
 
@@ -16,7 +19,7 @@ function draw() {
 
 
 function showHistory(data) {
-    /*console.log(data);*/
+    console.log(data[0]);
 
     //create new array with titles 
     let documentTitles = new Array();
