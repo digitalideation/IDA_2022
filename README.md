@@ -64,6 +64,9 @@ https://github.com/NiklasBuchfink/ida-digital-design<br>
 
 
 Gujer Mia Kicki<br>
+https://ida-22-mia.netlify.app/<br>
+https://github.com/miagujer/IDA_uebungen.git<br>
+
 
 Hoppeler Larissa Tanya<br>
 https://larissahoppeler.netlify.app/<br>
@@ -75,6 +78,7 @@ https://github.com/annakleger/kickstartTest-Anna<br>
 
 Kolly Svenja<br>
 https://svenjakolly.netlify.app<br>
+https://github.com/svenjakolly/GridModules.git<br>
 
 Münger Lea<br>
 https://ida2022.netlify.app<br>
@@ -89,6 +93,7 @@ https://ida-noel.netlify.app/<br>
 https://github.com/noelsanter/IDA-Aufgaben<br>
 
 Schlegel Balz<br>
+https://github.com/PomodoriSechi/IDA2022<br>
 
 Schmid Céline<br>
 https://ida-22-celine-schmid.netlify.app/<br>
