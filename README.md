@@ -93,6 +93,7 @@ https://ida-noel.netlify.app/<br>
 https://github.com/noelsanter/IDA-Aufgaben<br>
 
 Schlegel Balz<br>
+https://balz-ida2022.netlify.app/<br>
 https://github.com/PomodoriSechi/IDA2022<br>
 
 Schmid Céline<br>
