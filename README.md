@@ -85,7 +85,7 @@ https://ida2022.netlify.app<br>
 https://github.com/leamuenger/IDA2022<br>
 
 Ramseier Sonja<br>
-https://ida-sr.netlify.app<br>
+https://ida-sonja-ramseier.netlify.app<br>
 https://github.com/sonjaramseier/Github_IDA_repos.git
 
 Santer Noël<br>
