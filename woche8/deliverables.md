@@ -35,4 +35,6 @@ Beschrieb von 200 Wörtern +-10% (halbe A4-Seite, könnte zugleich Drehbuch für
 Abgabe auf Illias in eure Folder: https://elearning.hslu.ch/ilias/goto.php?target=fold_5307264&client_id=hslu <br/>
 - Projektrepository gezippt <br/>
 - readme File mit Links zu Netlify URL, Github Repo <br/>
-- allfällige Dokumentationen als PDF <br/>
+- allfällige Dokumentationen als PDF <br/><br/>
+
+- Eure individuellen Übungsrepositories gezippt <br/>
