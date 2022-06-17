@@ -48,7 +48,13 @@ https://digitalideationstudis.slack.com/archives/C03780GBRGX
 | <a href="https://github.com/digitalideation/IDA_2022/blob/main/woche8/readme.md">wk 8 </a>|  Finalisierung und Schlusspräsentation |  8.6.2022  |   
 |  |  Dokumentation |  10.6.2022  | 
 
-# Students Exercise Repo 2022
+
+# Final Projects 2022
+👏👏👏👏👏👏👏👏👏👏<br>
+https://ida-2022.netlify.app/<br>
+👏👏👏👏👏👏👏👏👏👏<br>
+
+# Students Individual Exercise Repo 2022
 Baumann Chalid:<br>
 https://ida-cb.netlify.app<br>
 https://github.com/chalidbaumann/IDA-Uebungen.git<br>
@@ -97,7 +103,7 @@ https://balz-ida2022.netlify.app/<br>
 https://github.com/PomodoriSechi/IDA2022<br>
 
 Schmid Céline<br>
-https://ida-22-celine-schmid.netlify.app/<br>
+https://ida-2022-celine-schmid.netlify.app/<br>
 https://github.com/celine-schmid/Tag-1.git<br>
 
 Werner Max<br>
